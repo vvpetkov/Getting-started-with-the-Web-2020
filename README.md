@@ -15,7 +15,7 @@ JavaScript
 
 
 ![Logo](/images/logoVLD.png)
-Format: ![Alt Text](url)
+Format: ![StudioVLD](http://studiovld.com/)
 
 
 
