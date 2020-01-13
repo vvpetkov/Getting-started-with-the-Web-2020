@@ -11,7 +11,11 @@ I start from their tutorials after several attempts to break the wall on JS!
 JavaScript
 - [x] Module 1 :+1: :white_check_mark: :mortar_board:
 - [ ] Module 2
-- [ ] Module 3
+- [ ] ~~Module 3~~
+
+
+![Logo](/images/logoVLD.png)
+Format: ![Alt Text](url)
 
 
 
