@@ -4,7 +4,7 @@
 #### This is my  ["Active Learning Examples"](https://vvpetkov.github.io/Getting-started-with-the-Web-2020/) (running live) for learning JavaScript tutorials from :moyai: [MDN site](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 
-I will need this to jumpstart my knowledge for JS and everything around it! 
+I will need this to jumpstart my knowledge of JS and everything around it or just if I want to refresh my memories on it! 
 
 I started their tutorials after several attempts to break the wall on JS! 
 
