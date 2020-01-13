@@ -10,13 +10,13 @@ I start from their tutorials after several attempts to break the wall on JS!
 
 :mortar_board: JavaScript
 - [x] ~~Module 1~~ :+1: :heavy_check_mark:
-- [ ] [Module 2](docs/JavaScript-Dynamic-client-side-scripting) :point_left: 
+- [ ] [Module 2](docs/JavaScript-Dynamic-client-side-scripting/) :point_left: 
 - [ ] Module 3
 
 
 ![Logo](/images/logoVLD.png)
 
-
+JavaScript-Dynamic-client-side-scripting/M2-JavaScript-building-blocks/simple-else-if.html
 
 [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 [GitHub emoji](https://github.com/fefong/markdown_readme/blob/master/emoji.md#emoji)
