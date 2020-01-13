@@ -8,9 +8,11 @@ I will need this to jumpstart my knowledge for JS and everything around it!
 
 I start from their tutorials after several attempts to break the wall on JS! 
 
-:mortar_board: JavaScript
-- [x] ~~Module 1~~ :+1: :heavy_check_mark:
-- [ ] [Module 2](docs/JavaScript-Dynamic-client-side-scripting/) :point_left: 
+### :mortar_board: Getting started with the Web :heavy_check_mark:
+
+### :mortar_board: JavaScript
+- [x] Module 1 :heavy_check_mark:
+- [ ] Module 2 :point_left: 
 - [ ] Module 3
 
 
