@@ -7,6 +7,7 @@
 I will need this to jumpstart my knowledge of JS and everything around it or just if I want to refresh my memories on it! 
 
 I started their tutorials after several attempts to break the wall on JS! 
+![Logo](/images/logoVLD.png)
 
 ### :mortar_board: Getting started with the Web [:heavy_check_mark:](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 ### :mortar_board: HTML — Structuring the Web [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -17,9 +18,19 @@ I started their tutorials after several attempts to break the wall on JS!
 - [ ] Module 3 :zzz: [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 - [ ] Module 4 :zzz: [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 - [ ] Module 5 :zzz: [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+### :mortar_board: Server-side website programming 
+- [ ] Module 1 :zzz: [Server-side website programming first steps](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps)
+- [ ] Module 2 :x: Django Web Framework (Python)
+- [ ] Module 3 :zzz: [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+### :snowflake: Common questions
+- [ ] Module 1 :zzz: Use HTML to solve common problems
+- [ ] Module 2 :zzz: Use CSS to solve common problems
+- [ ] Module 3 :zzz: Solve common problems in your JavaScript code
+- [ ] Module 4 :zzz: How the Web works
+- [ ] Module 5 :zzz: Tools and setup
+- [ ] Module 6 :zzz: Design and accessibility
 
 
-![Logo](/images/logoVLD.png)
 
 
 :high_brightness: [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
