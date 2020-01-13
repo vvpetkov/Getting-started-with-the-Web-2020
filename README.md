@@ -4,6 +4,7 @@
 #### This is my  ["Active Learning Examples"](https://vvpetkov.github.io/Getting-started-with-the-Web-2020/) (running live) for learning JavaScript tutorials from :moyai: [MDN site](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 
+
 I will need this to jumpstart my knowledge of JS and everything around it or just if I want to refresh my memories on it! 
 
 I started their tutorials after several attempts to break the wall on JS! 
@@ -18,11 +19,11 @@ I started their tutorials after several attempts to break the wall on JS!
 - [ ] Module 3 :zzz: [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
 - [ ] Module 4 :zzz: [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 - [ ] Module 5 :zzz: [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
-### :mortar_board: Server-side website programming 
+### :mortar_board: Server-side website programming [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 - [ ] Module 1 :zzz: [Server-side website programming first steps](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps)
 - [ ] Module 2 :x: Django Web Framework (Python)
 - [ ] Module 3 :zzz: [Express Web Framework (Node.js/JavaScript)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-### :snowflake: Common questions
+### :snowflake: Common questions [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/Common_questions) 
 - [ ] Module 1 :zzz: Use HTML to solve common problems
 - [ ] Module 2 :zzz: Use CSS to solve common problems
 - [ ] Module 3 :zzz: Solve common problems in your JavaScript code
@@ -30,7 +31,7 @@ I started their tutorials after several attempts to break the wall on JS!
 - [ ] Module 5 :zzz: Tools and setup
 - [ ] Module 6 :zzz: Design and accessibility
 
-
+##[Javascript tehnology for web developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 :high_brightness: [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
