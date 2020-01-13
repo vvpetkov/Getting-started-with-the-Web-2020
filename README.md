@@ -8,7 +8,7 @@ I will need this to jumpstart my knowledge for JS and everything around it!
 
 I started their tutorials after several attempts to break the wall on JS! 
 
-### :mortar_board: Getting started with the Web :heavy_check_mark:
+### :mortar_board: Getting started with the Web [:heavy_check_mark:](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 ### :mortar_board: HTML — Structuring the Web [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 ### :mortar_board: CSS — Styling the Web [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 ### :mortar_board: JavaScript — Dynamic client-side scripting [:point_left:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -24,6 +24,6 @@ I started their tutorials after several attempts to break the wall on JS!
 
 :high_brightness: [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
-:gear:[GitHub emoji](https://github.com/fefong/markdown_readme/blob/master/emoji.md#emoji)
+:gear: [GitHub emoji](https://github.com/fefong/markdown_readme/blob/master/emoji.md#emoji)
 
-:octocat:[About READMEs](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
+:octocat: [About READMEs](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
