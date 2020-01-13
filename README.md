@@ -10,7 +10,7 @@ I start from their tutorials after several attempts to break the wall on JS!
 
 :mortar_board: JavaScript
 - [x] ~~Module 1~~ :+1: 
-- [ ] Module 2 :point_left: 
+- [ ] [Module 2](doc/JavaScript-Dynamic-client-side-scripting) :point_left: 
 - [ ] Module 3
 
 
