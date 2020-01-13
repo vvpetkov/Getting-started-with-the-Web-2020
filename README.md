@@ -33,7 +33,11 @@ I started their tutorials after several attempts to break the wall on JS!
 - [ ] Module 5 :zzz: Tools and setup
 - [ ] Module 6 :zzz: Design and accessibility
 
-## :snowflake: [Javascript tehnology for web developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## :factory: [Javascript tehnology for web developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+
+
 
 
 :high_brightness: [Emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
