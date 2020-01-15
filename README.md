@@ -17,10 +17,10 @@ I started their tutorials after several attempts to break the wall on JS!
 ### :mortar_board: CSS — Styling the Web [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 ### :mortar_board: JavaScript — Dynamic client-side scripting [:point_left:](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [x] Module 1 :heavy_check_mark: [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) 
-- [ ] Module 2 :point_left: [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks)
-- [ ] Module 3 :zzz: [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-- [ ] Module 4 :zzz: [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
-- [ ] Module 5 :zzz: [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- [ ] Module 2 :point_left: [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) 👨‍💻 ["Active Learning Examples"](https://vvpetkov.github.io/Getting-started-with-the-Web-2020/)
+- [ ] Module 3 :zzz: [Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) :zzz:
+- [ ] Module 4 :zzz: [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) :zzz:
+- [ ] Module 5 :zzz: [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) :zzz:
 ### :mortar_board: Server-side website programming [:zzz:](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
 - [ ] Module 1 :zzz: [Server-side website programming first steps](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps)
 - [ ] Module 2 :x: Django Web Framework (Python)
